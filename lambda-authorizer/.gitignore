@@ -1,0 +1,6 @@
+# Ignorar todos os arquivos
+*
+
+# Não ignorar o arquivo lambda_funcion.py
+!lambda_function.py
+!.gitignore
